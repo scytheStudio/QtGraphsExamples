@@ -1,4 +1,4 @@
-# QtGraphsExamples
+# Qt Graphs Examples
 Source code of Qt Graphs examples used in a blog post available under https://scythe-studio.com/en/blog/qt-graphs-vs-qt-charts-objective-take-on-the-new-data-visualization-solution
 
 ---
