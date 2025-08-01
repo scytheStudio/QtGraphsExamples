@@ -4,19 +4,40 @@ Source code of Qt Graphs examples used in a blog post available under https://so
 
 ---
 
-[![Somco Software](./assets/scytheStudioLogo.png)](https://somcosoftware.com)
+[![Somco Software](./assets/Group%201.png)](https://somcosoftware.com)
 
 [![Built with Qt](./assets/buildWithQt.png)](https://qt.io)
 
 ---
 
-## About Somco Software
+## About Somco Software (previously Scythe Studio)
 We are a group of Qt and C++ enthusiasts whose goal is to address growing demand for cross-platform Qt development services. Thanks to our expertise in **Qt Qml development**, quality of deliveries and proven track of projects developed for companies from various industries we have been awarded the title of an official **Qt Service Partner**.
 
-<span> 
-<a href="https://somcosoftware.com"><img width="340" height="150" src="https://user-images.githubusercontent.com/45963332/221174257-c1e1a9d9-0efa-4b25-996b-4b364ccb325c.svg"></a>
-<a href="https://clutch.co/profile/scythe-studio"><img height="150" width="150" src="https://user-images.githubusercontent.com/45963332/221174280-99b32a1d-7418-4a49-bcea-6927639cf557.png"></a>
-</span>
+<table style="margin: 0 auto; border:0;">
+    <tr style="border:0">
+        <td style="border:0">
+            <a href="https://somcosoftware.com">
+            <img width="340" height="150" src="./assets/Qt-service-partner-badge.png">
+            </a>
+        </td>
+        <td style="border:0">
+            <a href="https://clutch.co/profile/scythe-studio">
+                <img height="150" width="150"
+                    src="https://github.com/user-attachments/assets/023e102e-84c1-4e7e-b9de-cae476e681e7">
+            </a>
+        </td>
+        <td style="border:0">
+            <a href="https://scythe-studio.com/en/iso">
+                <img src="./assets/iso 13485.png">
+            </a>
+        </td>
+        <td style="border:0">
+            <a href="https://scythe-studio.com/en/iso">
+                <img src="./assets/iso 9001.png">
+            </a>
+        </td>
+    </tr>
+</table>
 
 The company offers broad spectrum of services for the clients who wish to bring their ideas to life. We have extensive and practical knowledge about various Qt modules and other technologies allowing to create high quality product in a cost effective approach. If you want to see what Somco Software is is capable of and what services we provide, check out [this link](https://somcosoftware.com/en/services).
 
